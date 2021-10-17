@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.js": "/quizti/static/js/main.1b56c98b.chunk.js",
-    "main.js.map": "/quizti/static/js/main.1b56c98b.chunk.js.map",
+    "main.js": "/quizti/static/js/main.10f55089.chunk.js",
+    "main.js.map": "/quizti/static/js/main.10f55089.chunk.js.map",
     "runtime-main.js": "/quizti/static/js/runtime-main.1e213f5c.js",
     "runtime-main.js.map": "/quizti/static/js/runtime-main.1e213f5c.js.map",
     "static/js/2.3a6489c9.chunk.js": "/quizti/static/js/2.3a6489c9.chunk.js",
     "static/js/2.3a6489c9.chunk.js.map": "/quizti/static/js/2.3a6489c9.chunk.js.map",
     "index.html": "/quizti/index.html",
     "static/js/2.3a6489c9.chunk.js.LICENSE.txt": "/quizti/static/js/2.3a6489c9.chunk.js.LICENSE.txt",
+    "static/media/A.0361c04d.jpg": "/quizti/static/media/A.0361c04d.jpg",
+    "static/media/B.045ace41.jpg": "/quizti/static/media/B.045ace41.jpg",
+    "static/media/C.e978bc9d.jpg": "/quizti/static/media/C.e978bc9d.jpg",
     "static/media/mercado_eletronico_2-04-white.0c630730.png": "/quizti/static/media/mercado_eletronico_2-04-white.0c630730.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1e213f5c.js",
     "static/js/2.3a6489c9.chunk.js",
-    "static/js/main.1b56c98b.chunk.js"
+    "static/js/main.10f55089.chunk.js"
   ]
 }
