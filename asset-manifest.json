@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/static/js/main.58d668bc.chunk.js",
+    "main.js.map": "/static/js/main.58d668bc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2052e1b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2052e1b3.js.map",
+    "static/js/2.53df770b.chunk.js": "/static/js/2.53df770b.chunk.js",
+    "static/js/2.53df770b.chunk.js.map": "/static/js/2.53df770b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.53df770b.chunk.js.LICENSE.txt": "/static/js/2.53df770b.chunk.js.LICENSE.txt",
+    "static/media/mercado_eletronico_2-04-white.0c630730.png": "/static/media/mercado_eletronico_2-04-white.0c630730.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2052e1b3.js",
+    "static/js/2.53df770b.chunk.js",
+    "static/js/main.58d668bc.chunk.js"
+  ]
+}
